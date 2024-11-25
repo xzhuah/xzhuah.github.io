@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_dimension_client=self.webpackChunkmy_dimension_client||[]).push([[558],{13558:(e,t,n)=>{n.r(t),n.d(t,{textureAlphaCheckerVertexShader:()=>s});const r="textureAlphaCheckerVertexShader",u="\nattribute uv: vec2f;varying vUv: vec2f;@vertex\nfn main(input: VertexInputs)->FragmentInputs {vertexOutputs.vUv=vertexInputs.uv;vertexOutputs.position=vec4f(\n(vertexInputs.uv % 1.0)*2.0-1.0,\n0.0,\n1.0\n);}\n";n(44453).l.ShadersStoreWGSL[r]=u;const s={name:r,shader:u}}}]);
+//# sourceMappingURL=558.e676e7a5.chunk.js.map
