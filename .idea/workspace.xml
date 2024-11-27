@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25fdc5c2-e2aa-4152-b1cc-8b495ce4e4db" name="Changes" comment="add sky" />
+    <list default="true" id="25fdc5c2-e2aa-4152-b1cc-8b495ce4e4db" name="Changes" comment="Add stage, improve  performance on mobile" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,13 +33,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/myC/Workspace/SuperRepo/release/xzhuah.github.io/mmd/motion"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/myC/Workspace/SuperRepo/release/xzhuah.github.io/mmd/motion&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\myC\Workspace\SuperRepo\release\xzhuah.github.io\mmd\motion" />
@@ -101,13 +101,22 @@
       <option name="project" value="LOCAL" />
       <updated>1732535442119</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add stage, improve  performance on mobile">
+      <option name="closed" value="true" />
+      <created>1732699296225</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732699296225</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test animation" />
     <MESSAGE value="update" />
     <MESSAGE value="add sky" />
-    <option name="LAST_COMMIT_MESSAGE" value="add sky" />
+    <MESSAGE value="Add stage, improve  performance on mobile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add stage, improve  performance on mobile" />
   </component>
 </project>
