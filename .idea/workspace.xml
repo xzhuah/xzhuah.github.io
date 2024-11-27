@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25fdc5c2-e2aa-4152-b1cc-8b495ce4e4db" name="Changes" comment="update" />
+    <list default="true" id="25fdc5c2-e2aa-4152-b1cc-8b495ce4e4db" name="Changes" comment="add sky" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,12 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1732534738423</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add sky">
+      <option name="closed" value="true" />
+      <created>1732535442119</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732535442119</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test animation" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="add sky" />
+    <option name="LAST_COMMIT_MESSAGE" value="add sky" />
   </component>
 </project>
