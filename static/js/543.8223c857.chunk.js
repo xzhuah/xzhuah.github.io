@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmy_dimension_client=self.webpackChunkmy_dimension_client||[]).push([[543],{61543:(e,r,t)=>{t.r(r),t.d(r,{textureAlphaCheckerPixelShader:()=>i});const a="textureAlphaCheckerPixelShader",n="\nprecision highp float;uniform sampler2D textureSampler;varying vec2 vUv;void main() {gl_FragColor=vec4(vec3(1.0)-vec3(texture2D(textureSampler,vUv).a),1.0);}\n";t(44453).l.ShadersStore[a]=n;const i={name:a,shader:n}}}]);
-//# sourceMappingURL=543.8223c857.chunk.js.map
