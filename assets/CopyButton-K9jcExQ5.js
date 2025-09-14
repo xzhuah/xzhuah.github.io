@@ -1,1 +1,0 @@
-import{R as c,j as n,ac as r,be as a}from"./index-ObzXdM8m.js";import{C as e}from"./ContentCopy-BT64R3ZN.js";const p=({text:o,icon:t=n.jsx(e,{}),...s})=>n.jsx(r,{onClick:()=>a(o instanceof Function?o():o),...s,children:t}),u=c.memo(p);export{u as C};
